@@ -12,3 +12,5 @@ sqlalchemy
 playwright
 pytest
 jira
+pydantic
+langsmith
